@@ -10,19 +10,19 @@ MIRI目前的研究项目着眼于了解如何在[原则](https://intelligence.o
 这篇简介简短地介绍了我们优先需要研究的问题，并且提供一些资料以帮助你快速了解相关问题的前沿状态。其目的不在于合理化这些研究课题，更多关于我们的研究动机的信息，请参考以下文章：[MIRI的研究方式](https://intelligence.org/2015/07/27/miris-approach/)，[技术日程](http://intelligence.org/files/TechnicalAgenda.pdf)，[支持文献](http://intelligence.org/technical-agenda).
 
 注（2016-sep）：这篇研究指导基于我们的技术日程文档，2016年以来，我们又引入了[专注于机器学习的研究日程](https://intelligence.org/files/AlignmentMachineLearning.pdf)。请参考这个文档以了解另外一部分没有在此提及，但是我们认为很有价值的研究方向。
-
-    #目录  
-    1. 如何使用该指导  
-    2. 基础信息  
-    3. 现实建模（realistic World-models）  
-    4. 决策论  
-    5. 逻辑不确定性  
-    6. Vingean Reflection  
-    7. 可矫正性  
-    8. 价值学习  
-    9. 其他工具  
-    10. 了解我们的使命  
-
+---
+#目录  
+1. 如何使用该指导  
+2. 基础信息  
+3. 现实建模（realistic World-models）  
+4. 决策论  
+5. 逻辑不确定性  
+6. Vingean Reflection  
+7. 可矫正性  
+8. 价值学习  
+9. 其他工具  
+10. 了解我们的使命  
+---
 
 
 *to be continued*
