@@ -13,7 +13,7 @@ MIRI目前的研究项目着眼于了解如何在[原则](https://intelligence.o
 
 ---
 
-# 目录 # 
+# 0. 目录 # 
 
 1. 如何使用该指导  
 2. 基础信息  
@@ -30,7 +30,17 @@ MIRI目前的研究项目着眼于了解如何在[原则](https://intelligence.o
 
 # 1. 如何使用该指导 #
 
+本文的目的在于激励对这个领域相关知识不是非常熟悉的研究者。如果你已经在从事人工智能相关的工作，或者是成熟的数学家，请考虑跳过这篇文章直接阅读我们现有的[文献](https://intelligence.org/all-publications/)。（我们的[技术日程](http://intelligence.org/technical-agenda/)是一个很好的出发点）本文意在帮助未来有意加入MIRI的学生，或者其他想要了解我们工作的专业人士。
 
+研究者加入MIRI通常有两个途径。第一种是参加MIRI Workshop和我们面对面交流。。你可以从[这里](https://machineintelligence.typeform.com/to/fot777)申请参加MIRI Workshop。请注意Workshop之间的时间间隔可能很长，容量也很有限。
+
+第二种途径是独立根据我们的研究日程做出成果，并让我们知道你的结果。你可以在此[在线申请](https://machineintelligence.typeform.com/to/fot777)我们的帮助。但是最快的开始做出贡献的途径是在[Intelligent Agent Foundations Forum](http://agentfoundations.org/)(IAFF)上发言，选择一个还未被解决的问题，并尝试解决它。你可以把你的成果的链接[发表](http://agentfoundations.org/links)在论坛。
+
+这个论坛的首要任务是允许正在进行研究的研究者交流未完成的工作，因此论坛中的内容可能显得模糊。这篇指导能帮助你快速跟上IAFF上正在被讨论的话题。这也可以帮助你培养参加Workshop的必要能力，或者帮助你获得在其他机构研究AI的能力。
+
+这篇指导以列举对此领域至关重要的基本课题开始，例如概率论。在这之后，划分为一系列的话题，并提供帮助你了解相关领域前沿知识的文献链接。
+
+这不是一篇线性的指导：如果你想成为一名MIRI研究者，我推荐你首先确保自己了解必须的基本知识，然后去深度了解一个自己最感兴趣的话题即可。当你可以很好地了解这些内容，你就可以尝试在IAFF上参与讨论了。
 
 ---
 
