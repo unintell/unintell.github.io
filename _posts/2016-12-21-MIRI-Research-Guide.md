@@ -52,19 +52,31 @@ MIRI目前的研究项目着眼于了解如何在[原则](https://intelligence.o
 
 ## 集合论 ##
 
-大部分的现代数学都在集合论中得到形式化的描述，列在这里的其他教材和论文也不例外。所以从集合论开始是很ok的。
+大部分的现代数学都在集合论中得到形式化的描述，列在这里的其他教材和论文也不例外。所以从集合论开始是很ok的。  
 **[Naive Set Theory](https://www.amazon.com/gp/product/1614271313?pldnSite=1)**
 
 ## 可计算性和逻辑 ##
 
-可计算性理论（以及对角化带来的限制（参见形式语言与自动机））涉及了机器的能力范围的知识。
+可计算性理论（以及对角化带来的限制（参见形式语言与自动机））涉及了机器的能力范围的知识。  
 **[Computability and Logic](http://smile.amazon.com/Computability-Logic-George-S-Boolos/dp/0521701465/)**
 (1-18章)
 
 ## 概率论 ##
 
+概率论对理解智能体至关重要。关于如何在不确定的环境下决策的知识在我们所有的研究领域都大有用处。  
+**[Probablity Theory: the Logic of Science](http://smile.amazon.com/Probability-Theory-The-Logic-Science/dp/0521592712/)**
 
+## 概率推理 ##
 
+这本书能帮助你了解在概率化的世界模型中如何进行推理。  
+**[Probablistic Reasoning in Intelligent Systems](http://smile.amazon.com/Probabilistic-Reasoning-Intelligent-Systems-Representation/dp/1558604790/)**
+
+## 人工智能 ##
+
+我们的研究主要关注关于智能的基本数学理论，但是对现代AI领域的现状有所了解可以让我们的工作更加接地气。  
+**[Artificial intelligence: A Modern Approach](http://www.amazon.com/Artificial-Intelligence-Modern-Approach-Edition/dp/0136042597)**
+
+VNM 理性的概念也是很重要的，我推荐从[这篇维基文章](http://en.wikipedia.org/wiki/Von_Neumann%E2%80%93Morgenstern_utility_theorem)中学习，也可以阅读[原始书籍](http://smile.amazon.com/Economic-Behavior-Anniversary-Commemorative-Princeton-ebook/dp/B00AMAZL4I/)。冯诺依曼和摩根斯坦展示了任何遵守一些简单而自洽的公理的智能体，可以被一个效用函数表示。虽然有的人认为为了构造可靠的人工智能体我们必须抛弃VNM理性，但是这仍然是最能描述任意强大的智能体的行为的框架。（参见Bostrom的[超智能之愿（The Superintelligent Will）](http://www.nickbostrom.com/superintelligentwill.pdf)一书中的*正交性命题*和*Instrumental Convergence thesis*（基本上就是说，看起来有着无害目标的智能体可能在实现该目标的过程中做出很夸张的有害行为 --译注））这个概念在我们的研究中被广泛使用。
 
 
 
